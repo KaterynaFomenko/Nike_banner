@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:ital,wght@1,700&family=Cormorant:wght@300;700&family=Inter&display=swap");
+.container {
+  max-width: 300px;
+  max-height: 600px;
+  margin: auto;
+  justify-content: center;
+  background-color: #F5F5F5;
+  background: linear-gradient(180deg, #FFFFFF 0%, #9EA3AB 75%, #E3E3E3 100%); }
+  .container h3 {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-style: italic;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 120%;
+    text-align: center;
+    color: #111111; }
+  .container h4 {
+    position: absolute;
+    background-color: red;
+    padding: 4px 20px 6px;
+    margin: 20px 70px;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-style: italic;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 120%;
+    color: #FFFFFF; }
+  .container .model1 {
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    position: relative;
+    transition: 0.5s; }
+    .container .model1:hover {
+      transform: scale(1.2); }
+
+.logo {
+  padding: 20px 85px 65px; }
+
+button {
+  margin: auto;
+  font-family: 'Barlow Condensed';
+  font-style: italic;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 120%;
+  color: #FFFFFF; }
+
+/*# sourceMappingURL=style.css.map */

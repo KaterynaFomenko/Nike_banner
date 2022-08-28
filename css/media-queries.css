@@ -1,0 +1,41 @@
+
+@media only screen and (max-width: 415px) {
+    header nav li{
+        margin-left: 1px;
+    }
+    header nav li a{
+        font-size: 9px;
+    }
+    header nav li a:first-of-type{
+        font-size: 9px;
+    }
+    .logo{
+        margin-left: 1px;
+
+    }
+.main_banner2{
+    align-items: center;
+    text-align: center;
+    padding-top: 150px;
+}
+.main_banner3{
+    text-align: center;
+    align-items: center;
+    padding-top: 150px;
+}
+.main_banner3 h3{
+    padding-left: 50px;
+}
+.main_banner3 p{
+    padding-left: 50px;
+}
+.main_banner4 a{
+    padding-right: 100px;
+}
+.main_banner5 h3{
+    padding-right: 75px;
+}
+.form_flex_item form{
+    max-width: 208px;
+}
+}
